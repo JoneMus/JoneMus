@@ -1,6 +1,4 @@
-
-![IMG20230508162443](https://github.com/JoneMus/JoneMus/assets/99409713/6ecb2030-8670-4132-9769-86c51517d1ba)
-
+![sebastian-svenson-d2w-_1LJioQ-unsplas](https://github.com/JoneMus/JoneMus/assets/99409713/677fd852-f694-48b5-9073-ae928357eafb)
 
 ## Hi, I am Jonne
 SW Developer student from Finland. Passionate about building and learning new things.
@@ -28,7 +26,7 @@ SW Developer student from Finland. Passionate about building and learning new th
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![VSCode]( 	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoneMus&theme=dark)](https://github.com/anuraghazra/github-readme-stats" margin="100"></img>  
-<img src="https://github-readme-stats.vercel.app/api?username=JoneMus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats" width="300"></img>
-
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoneMus&theme=dark)](https://github.com/anuraghazra/github-readme-stats" width="220"></img>  
+<img src="https://github-readme-stats.vercel.app/api?username=JoneMus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats" width="500"></img>
+</div>
