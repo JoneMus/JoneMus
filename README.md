@@ -1,21 +1,21 @@
-<div id="banner">
 
-![github_banner_wtext](https://user-images.githubusercontent.com/99409713/230460703-a9b818ec-b76a-4904-8a82-81aa570e5664.jpg)
-</div>
+![IMG20230508162443](https://github.com/JoneMus/JoneMus/assets/99409713/6ecb2030-8670-4132-9769-86c51517d1ba)
+
 
 ## Hi, I am Jonne
-<div class="container">
-<div class="textbox">
+<div>
+<div>
 <p>
 SW Developer student from Finland. Passionate about building and learning new things.
 </p>
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<a href="mailto:jonne.mustajarvi@gmail.com"></a>
-</img>
-
-<img class="badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/jonne-mustaj%C3%A4rvi-74a94722b/"></a></img>
-
+<a href="mailto:jonne.mustajarvi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+</a>
+    
+<a href="https://www.linkedin.com/in/jonne-mustaj%C3%A4rvi-74a94722b/">
+<img class="badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+</a>
 
 
 ## Most Familiar With:
@@ -33,43 +33,10 @@ SW Developer student from Finland. Passionate about building and learning new th
 ![VSCode]( 	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 </div>
 
-<div class="stats">
-<img src="https://github-readme-stats.vercel.app/api?username=JoneMus&show_icons=true&theme=dark" width="300">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoneMus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=JoneMus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats" width="300">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoneMus&theme=dark)](https://github.com/anuraghazra/github-readme-stats"</img>  
 </div>
 </div>
 
-<style>
-#banner {
-    height: 250px;
-    overflow: hidden;
-}
-
-.container {
-    display: flex;
-    gap: 40px;
-    width: 100%;
-
-}
-
-.btn {
-    max-width: 120px
-}
-
-.badge {
-
-}
-
-.textbox {
-    width: 80%
-}
-
-.stats {
-    display: flex;
-    flex-direction: column;
-    margin-top: 20px;
-    gap: 5px;
-}
-
-</style>
