@@ -3,11 +3,7 @@
 
 
 ## Hi, I am Jonne
-<div>
-<div>
-<p>
 SW Developer student from Finland. Passionate about building and learning new things.
-</p>
 
 <a href="mailto:jonne.mustajarvi@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
@@ -31,12 +27,8 @@ SW Developer student from Finland. Passionate about building and learning new th
 ![Springboot]( 	https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![VSCode]( 	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-</div>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=JoneMus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats" width="300">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoneMus&theme=dark)](https://github.com/anuraghazra/github-readme-stats"</img>  
-</div>
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoneMus&theme=dark)](https://github.com/anuraghazra/github-readme-stats" margin="100"></img>  
+<img src="https://github-readme-stats.vercel.app/api?username=JoneMus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats" width="300"></img>
 
